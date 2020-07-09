@@ -5,7 +5,7 @@
 I make [Room Service](https://www.roomservice.dev/) in San Francisco, California. 🌉 He/him. 
 
 <samp>
-<p>Values & Beliefs</p>
+<p>Values & Beliefs 🚂</p>
 <ul> 
   <li> People are fundamentally good </li>
   <li> Problems are solvable </li>
