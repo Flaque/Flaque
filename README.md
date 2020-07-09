@@ -1,4 +1,4 @@
-![an animated bubble character that I drew myself and it shows](./bubble.gif)
+![an animated bubble character that I drew myself and it shows](https://github.com/Flaque/Flaque/raw/master/bubble.gif)
 
 <b>Hey there!</b> 🌊 I make [Room Service](https://www.roomservice.dev/) in San Francisco, California. 🌉 
 
