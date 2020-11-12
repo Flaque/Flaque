@@ -9,7 +9,7 @@ I make [Room Service](https://www.roomservice.dev/) in San Francisco, California
 <ul> 
   <li> People are fundamentally good </li>
   <li> Problems are solvable </li>
-  <li> Tame Impala is just the Beatles with extra echo (still good though) </li>
+  <li> Tame Impala is just the Beatles with extra echo (listen to the InnerSpeaker album) </li>
   <li> Bikes, trains, and buses are great, let's do more of those </li>
 </ul>
 </samp>
