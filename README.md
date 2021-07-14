@@ -2,7 +2,7 @@
 
 <b>Hey there!</b> 🌊 
 
-I'm currently making this: [streambus.com](streambus.com). 🌉 He/him. 
+I'm currently making this: [streambus.com](https://streambus.com). 🌉 He/him. 
 
 <samp>
 <p>Values & Beliefs 🚂</p>
