@@ -4,7 +4,7 @@
 
 🌉 He/him. 
 
-Currently working on a dead-simple, 48 CPU, build-farm for Rust.
+Making the new app store. 
 
 <samp>
 <p>Values & Beliefs 🚂</p>
