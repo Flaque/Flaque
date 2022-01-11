@@ -4,7 +4,7 @@
 
 🌉 He/him. 
 
-Making the new app store. 
+Currently working on [a new type of app store](https://strangemood.org). 
 
 <samp>
 <p>Values & Beliefs 🚂</p>
