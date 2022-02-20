@@ -11,6 +11,7 @@ Currently working on [a new type of app store](https://strangemood.org).
 <ul> 
   <li> People are fundamentally good </li>
   <li> Problems are solvable </li>
+  <li> The goal of life is to be a good ancestor </li>
   <li> Tame Impala is just the Beatles with extra echo (listen to the InnerSpeaker album) </li>
   <li> Bikes, trains, and buses are great, let's do more of those </li>
 </ul>
