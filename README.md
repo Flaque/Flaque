@@ -4,7 +4,7 @@
 
 🌉 He/him. 
 
-Currently working on [a new type of app store](https://strangemood.org). 
+Currently working on [a tool for prompt engineering](https://everyprompt.com). 
 
 <samp>
 <p>Values & Beliefs 🚂</p>
