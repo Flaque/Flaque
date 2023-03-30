@@ -6,6 +6,8 @@
 
 Currently working on [a tool for prompt engineering](https://everyprompt.com). 
 
+Studying for your US citizenship test? Try my practice test: [studyforcitizenship.com](https://www.studyforcitizenship.com/). 
+
 <samp>
 <p>Values & Beliefs 🚂</p>
 <ul> 
