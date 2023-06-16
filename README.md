@@ -8,6 +8,7 @@ I make [lintrule.com](https://www.lintrule.com/), a tool for having an LLM do yo
 
 <img width="760" alt="Screen Shot 2023-06-16 at 9 41 29 AM" src="https://github.com/Flaque/Flaque/assets/5942769/92cbcbe4-abf9-47a4-8c8f-e82499c0cce2">
 
+-----
 
 <samp>
 <p>Values & Beliefs 🚂</p>
