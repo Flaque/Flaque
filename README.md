@@ -2,9 +2,7 @@
 
 <b>Hey there!</b> 🌊 
 
-🌉 He/him. 
-
-Currently [making supercomputers in San Francisco.](https://sfcompute.com/) 
+I'm currently [making supercomputers in San Francisco.](https://sfcompute.com/) 
 
 -----
 
