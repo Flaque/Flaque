@@ -2,7 +2,7 @@
 
 <b>Hey there!</b> 🌊 
 
-I'm currently [making supercomputers in San Francisco.](https://sfcompute.com/) 
+I'm currently [selling supercomputers in San Francisco.](https://sfcompute.com/) 
 
 -----
 
